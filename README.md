@@ -1,12 +1,12 @@
-# YOLOv10 Real-Time Object Detection
+# YOLOv11 Real-Time Object Detection
 
 ## Project Overview
-This project enhances the YOLOv10 object detection system with real-time webcam integration for surveillance applications.
+This project enhances the YOLOv11 object detection system with real-time webcam integration for surveillance applications.
 The implementation provides a user-friendly Gradio interface for object detection across images, videos, and live webcam feeds, making it suitable for deployment in drone-based surveillance systems for detecting violence or suspicious activities.
 
 ## Features
 - Multi-modal object detection (images, videos, and real-time webcam)
-- Support for all YOLOv10 model variants (nano to extra large)
+- Support for all YOLOv11 model variants (nano to extra large)
 - Real-time FPS counter for performance monitoring
 - Adjustable detection parameters (confidence threshold, image size)
 - Threaded architecture for smooth webcam performance
@@ -16,7 +16,7 @@ The implementation provides a user-friendly Gradio interface for object detectio
 - Python 3.8+
 - OpenCV
 - Gradio
-- Ultralytics YOLOv10
+- Ultralytics YOLOv11
 - Threading and Queue modules (standard library)
 
 ## Installation
@@ -39,13 +39,13 @@ The web interface will be accessible at `http://localhost:7860` by default.
 
 ### Interface Options:
 1. **Input Type**: Choose between Image, Video, or Live Webcam
-2. **Model Selection**: Select from YOLOv10 variants (n, s, m, b, l, x)
+2. **Model Selection**: Select from YOLOv11 variants (n, s, m, b, l, x)
 3. **Image Size**: Adjust the input resolution (higher = more accurate but slower)
 4. **Confidence Threshold**: Set detection confidence level (0.0-1.0)
 5. **Webcam ID**: Select camera device (usually 0 for default webcam)
 
-## Modifications from Base YOLOv10
-The following enhancements have been made to the original YOLOv10 implementation:
+## Modifications from Base YOLOv11
+The following enhancements have been made to the original YOLOv11 implementation:
 
 1. **Real-time webcam integration**:
    - Added threaded architecture for concurrent frame capture and processing
@@ -70,7 +70,7 @@ The following enhancements have been made to the original YOLOv10 implementation
 - S Uday Gowda
 
 ## License
-This project builds upon the YOLOv10 implementation, which is available under its original license. Our modifications are provided for research and academic purposes. When using or distributing this software, please acknowledge both the original YOLOv10 work and our modifications.
+This project builds upon the YOLOv11 implementation, which is available under its original license. Our modifications are provided for research and academic purposes. When using or distributing this software, please acknowledge both the original YOLOv10 work and our modifications.
 
 ## Citation
 If you use this work in your research or project, please cite:
@@ -85,5 +85,5 @@ If you use this work in your research or project, please cite:
 ```
 
 ## References
-- [YOLOv10 GitHub Repository](https://github.com/THU-MIG/yolov10)
-- [YOLOv10 Paper](https://arxiv.org/abs/2405.14458)
+- [YOLOv11 GitHub Repository]([https://github.com/THU-MIG/yolov10](https://github.com/ultralytics/ultralytics))
+- [YOLOv11 Paper]([https://arxiv.org/abs/2405.14458](https://www.arxiv.org/abs/2410.17725))
