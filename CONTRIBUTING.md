@@ -1,5 +1,5 @@
 - Thanish Chinnappa KC
 - Tanisha Vernekar
 - Tejas RU
-- Sujeet RK
+- Sujeeth RK
 - Uday S Gowda
