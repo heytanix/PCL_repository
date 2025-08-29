@@ -1,5 +1,5 @@
-- Thanish Chinnappa KC
-- Tanisha Vernekar
-- Tejas RU
-- Sujeeth RK
-- Uday S Gowda
+- Thanish Chinnappa KC (Lead Developer)
+- Tanisha Vernekar (Documentation)
+- Tejas RU (Co-Developer)
+- Sujeeth RK (Research Paper)
+- Uday S Gowda (Data Quality Assurance)
