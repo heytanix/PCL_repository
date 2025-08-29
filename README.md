@@ -1,20 +1,21 @@
 # YOLOv11-X-ResNet3D18CNN Real-Time Human Violence Detection
 
 ## Project Overview
-This project enhances the YOLOv11 object detection system with real-time webcam integration for surveillance applications.
-The implementation provides a user-friendly Gradio interface for object detection across images, videos, and live webcam feeds, making it suitable for deployment in drone-based surveillance systems for detecting violence or suspicious activities.
+- This project is dedicated to developing an open source portable software that supports multi-device integration to detect violence and alert the respective authorities.
+- YOLOv11: For Object detection
+- ResNet3D18: For Violence/Non-Violence recognition 
 
 ## Features
-- Multi-modal object detection (images, videos, and real-time webcam)
-- Support for all YOLOv11 model variants (nano to extra large)
-- Real-time FPS counter for performance monitoring
-- Adjustable detection parameters (confidence threshold, image size)
-- Threaded architecture for smooth webcam performance
-- Pre-loaded example images for demonstration
+- Portable (LoRA Model, CUDA Model)
+- Authority Alertion
+- Object Detection
+- Violence Detection
+- Non-Violence Detection
 
 ## Requirements
 - Python 3.8+
 - OpenCV
+- PyTorch
 - Gradio
 - Ultralytics YOLOv11
 - Threading and Queue modules (standard library)
@@ -88,4 +89,5 @@ If you use this work in your research or project, please cite:
 - [YOLOv11 GitHub Repository]([https://github.com/THU-MIG/yolov10](https://github.com/ultralytics/ultralytics))
 
 - [YOLOv11 Paper]([https://arxiv.org/abs/2405.14458](https://www.arxiv.org/abs/2410.17725))
+
 
