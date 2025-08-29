@@ -1,4 +1,4 @@
-# YOLOv11 X ResNet3D18 CNN Real-Time Object Detection
+# YOLOv11-X-ResNet3D18CNN Real-Time Human Violence Detection
 
 ## Project Overview
 This project enhances the YOLOv11 object detection system with real-time webcam integration for surveillance applications.
@@ -88,3 +88,4 @@ If you use this work in your research or project, please cite:
 - [YOLOv11 GitHub Repository]([https://github.com/THU-MIG/yolov10](https://github.com/ultralytics/ultralytics))
 
 - [YOLOv11 Paper]([https://arxiv.org/abs/2405.14458](https://www.arxiv.org/abs/2410.17725))
+
