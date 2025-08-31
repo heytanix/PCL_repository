@@ -72,8 +72,3 @@ pip install requirements.txt
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## References
-- [YOLOv11 GitHub Repository]([https://github.com/THU-MIG/yolov10](https://github.com/ultralytics/ultralytics))
-
-- [YOLOv11 Paper]([https://arxiv.org/abs/2405.14458](https://www.arxiv.org/abs/2410.17725))
