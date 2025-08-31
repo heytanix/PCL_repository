@@ -48,9 +48,6 @@ pip install requirements.txt
 2. **Device Selection**: tester.py allows to choose between CPU/CUDA (as of August 31, 2025)
 3. **Webcam ID**: Select camera device (usually 0 for default webcam)
 
-## Modifications from Base YOLOv11
-The following enhancements have been made to the original YOLOv11 implementation:
-
 1. **Real-time webcam integration**:
    - Added threaded architecture for concurrent frame capture and processing
    - Implemented frame queue system for smooth display
@@ -67,14 +64,14 @@ The following enhancements have been made to the original YOLOv11 implementation
    - Proper resource cleanup for memory management
 
 ## Project Team
-- Thanish Chinnappa KC
-- Sujeeth RK
-- Tanisha Vernekar
-- Tejas RU
-- S Uday Gowda
+- Thanish Chinnappa KC (Lead Developer)
+- Sujeeth RK (Writer: Research Paper)
+- Tanisha Vernekar (Writer: Documentation)
+- Tejas RU (Co-Developer)
+- S Uday Gowda (Data Quality Analyst)
 
 ## License
-This project builds upon the YOLOv11 implementation, which is available under its original license. Our modifications are provided for research and academic purposes. When using or distributing this software, please acknowledge both the original YOLOv10 work and our modifications.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Citation
 If you use this work in your research or project, please cite:
