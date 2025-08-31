@@ -25,23 +25,22 @@
 - os module (standard library)
 - tqdm (optional, for progress bars)
 
-## Installation (Contibutors only)
+## Installation (Collaborator only)
 ```bash
-# Clone the repository (Only possible if you're a contributor)
+# Clone the repository (Only possible if you're a collaborator)
 gh repo clone heytanix/PCL_repository
-cd yolov10-detection
+cd PCL_repository
 
 # Install dependencies
-pip install ultralytics gradio opencv-python
+pip install requirements.txt
 ```
 
 ## Usage
-Run the application with:
-```bash
-python app.py
-```
-
-The web interface will be accessible at `http://localhost:7860` by default.
+- For training the ResNet-18 CNN model
+   - Use 3d_cnn_with_videos.ipynb **This notebook trains 3D CNN from videos directly**
+- For testing the ResNet-18 Based CNN model
+   - Use tester.py **This script allows to launch a gradio based webapp to test the said model**
+   - The web interface will be accessible at `http://127.0.0.1:7860` by default.
 
 ### Interface Options:
 1. **Input Type**: Choose between Image, Video, or Live Webcam
