@@ -1,8 +1,9 @@
-# ResNet3D18CNN Real-Time Human Violence Detection
+# ResNet3D18 CNN Real-Time Human Violence Detection
 
 ## Project Overview
 - This project is dedicated to developing a portable software that supports multi-device integration to detect violence and alert the respective authorities.
 - ResNet3D18: For Violence/Non-Violence recognition
+- (Last Update: August 31-2025)
 
 ## Features
 - Portable (CPU Model, CUDA Model)
@@ -43,11 +44,9 @@ pip install requirements.txt
    - The web interface will be accessible at `http://127.0.0.1:7860` by default.
 
 ### Interface Options:
-1. **Input Type**: Choose between Image, Video, or Live Webcam
-2. **Model Selection**: Select from YOLOv11 variants (n, s, m, b, l, x)
-3. **Image Size**: Adjust the input resolution (higher = more accurate but slower)
-4. **Confidence Threshold**: Set detection confidence level (0.0-1.0)
-5. **Webcam ID**: Select camera device (usually 0 for default webcam)
+1. **Input Type**: Live camera input (Stable as of August 31-2025)
+2. **Device Selection**: tester.py allows to choose between CPU/CUDA (as of August 31, 2025)
+3. **Webcam ID**: Select camera device (usually 0 for default webcam)
 
 ## Modifications from Base YOLOv11
 The following enhancements have been made to the original YOLOv11 implementation:
