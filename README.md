@@ -1,28 +1,34 @@
 # ResNet3D18CNN Real-Time Human Violence Detection
 
 ## Project Overview
-- This project is dedicated to developing an open source portable software that supports multi-device integration to detect violence and alert the respective authorities.
-- ResNet3D18: For Violence/Non-Violence recognition 
+- This project is dedicated to developing a portable software that supports multi-device integration to detect violence and alert the respective authorities.
+- ResNet3D18: For Violence/Non-Violence recognition
 
 ## Features
-- Portable (LoRA Model, CUDA Model)
-- Authority Alertion
-- Object Detection
+- Portable (CPU Model, CUDA Model)
+   - Designed for broad compatibility: includes a CPU-optimized model for devices without dedicated GPUs.
+- Automated Distress Signals
 - Violence Detection
-- Non-Violence Detection
+- Non-Violence Detection (For differentiation)
 
 ## Requirements
 - Python 3.8+
-- OpenCV
-- PyTorch
+- OpenCV (`opencv-python`)
+- PyTorch (`torch`, `torchvision`)
 - Gradio
-- Ultralytics YOLOv11
+- Decord (`decord`)
+- NumPy
+- scikit-learn (`scikit-learn`)
+- Matplotlib (`matplotlib`)
 - Threading and Queue modules (standard library)
+- datetime module (standard library)
+- os module (standard library)
+- tqdm (optional, for progress bars)
 
-## Installation
+## Installation (Contibutors only)
 ```bash
-# Clone the repository
-git clone https://github.com/your-username/yolov10-detection.git
+# Clone the repository (Only possible if you're a contributor)
+gh repo clone heytanix/PCL_repository
 cd yolov10-detection
 
 # Install dependencies
