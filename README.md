@@ -1,8 +1,7 @@
-# YOLOv11-X-ResNet3D18CNN Real-Time Human Violence Detection
+# ResNet3D18CNN Real-Time Human Violence Detection
 
 ## Project Overview
 - This project is dedicated to developing an open source portable software that supports multi-device integration to detect violence and alert the respective authorities.
-- YOLOv11: For Object detection
 - ResNet3D18: For Violence/Non-Violence recognition 
 
 ## Features
