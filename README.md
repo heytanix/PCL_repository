@@ -5,8 +5,10 @@ This deep learning project focuses on building a portable software solution for 
 *(Last updated: September 3rd, 2025)*
 
 ## Architecture Diagrams of models
-- of the ResNet-18 CNN Model
+**ResNet-18 Convolutional Neural Network(CNN) Model**
 ![ResNet-18 Architecture Diagram](/Assets/Images/ResNet_18_architecture.png)
+**Vision Language Model(VLM)**
+![VLM Architecture Diagram](/Assets/Images/VLM_Architecture.png)
 
 ## Features
 - Portable (CPU Model, CUDA Model)
