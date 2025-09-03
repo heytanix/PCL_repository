@@ -4,6 +4,12 @@
 This deep learning project focuses on building a portable software solution for real-time human violence detection. Leveraging the ResNet3D18 convolutional neural network, the system is designed to recognize violent and non-violent actions from video streams. It supports multi-device integration, enabling deployment on both CPU and GPU environments for broad accessibility. The software aims to automatically detect incidents of violence and promptly alert relevant authorities, enhancing safety and response times.  
 *(Last updated: September 3rd, 2025)*
 
+## Architecture Diagrams of models
+**ResNet-18 Convolutional Neural Network(CNN) Model**
+![ResNet-18 Architecture Diagram](/Assets/Images/ResNet_18_architecture.png)
+**Vision Language Model(VLM)**
+![VLM Architecture Diagram](/Assets/Images/VLM_Architecture.png)
+
 ## Features
 - Portable (CPU Model, CUDA Model)
    - Designed for broad compatibility: includes a CPU-optimized model for devices without dedicated GPUs.
