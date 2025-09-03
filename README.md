@@ -1,9 +1,8 @@
 # ResNet3D18 CNN Real-Time Human Violence Detection
 
 ## Project Overview
-- This project is dedicated to developing a portable software that supports multi-device integration to detect violence and alert the respective authorities.
-- ResNet3D18: For Violence/Non-Violence recognition
-- (Last Update: August 31-2025)
+This deep learning project focuses on building a portable software solution for real-time human violence detection. Leveraging the ResNet3D18 convolutional neural network, the system is designed to recognize violent and non-violent actions from video streams. It supports multi-device integration, enabling deployment on both CPU and GPU environments for broad accessibility. The software aims to automatically detect incidents of violence and promptly alert relevant authorities, enhancing safety and response times.  
+*(Last updated: September 3rd, 2025)*
 
 ## Features
 - Portable (CPU Model, CUDA Model)
