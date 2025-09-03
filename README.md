@@ -25,29 +25,7 @@ This deep learning project focuses on building a portable software solution for 
 - Non-Violence Detection (For differentiation)
 
 ## Requirements
-- Python 3.8+
-- OpenCV (`opencv-python>=4.9.0.80`)
-- PyTorch (`torch>=2.3.0`, `torchvision>=0.18.0`)
-- Gradio (`gradio>=4.26.0`)
-- Decord (`decord`)
-- NumPy (`numpy>=1.26.4`)
-- scikit-learn (`scikit-learn`)
-- Matplotlib (`matplotlib`)
-- Threading and Queue modules (standard library)
-- datetime module (standard library)
-- os module (standard library)
-- tqdm (optional, for progress bars)
-- onnx
-- onnxruntime
-- pycocotools
-- PyYAML
-- scipy
-- onnxslim
-- onnxruntime-gpu
-- psutil
-- py-cpuinfo
-- huggingface-hub
-- safetensors
+Please refer the [Requirements File](requirements.txt) to know about the requirements to run the project.
 
 ## Installation (Collaborator only)
 ```bash
