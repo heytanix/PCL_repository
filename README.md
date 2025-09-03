@@ -63,11 +63,7 @@ pip install requirements.txt
    - Proper resource cleanup for memory management
 
 ## Project Team
-- Thanish Chinnappa KC (Lead Developer)
-- Sujeeth RK (Writer: Research Paper)
-- Tanisha Vernekar (Writer: Documentation)
-- Tejas RU (Co-Developer)
-- S Uday Gowda (Data Quality Analyst)
+See the [CONTRIBUTING](CONTRIBUTING.md) file for the list of project contributors.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
