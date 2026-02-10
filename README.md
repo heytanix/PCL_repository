@@ -1,10 +1,5 @@
 # ResNet3D18 CNN Real-Time Human Violence Detection
 
-## Attention Collaborators
-**Important Notice:**  
-This repository is now private to maintain confidentiality. Please do not share any code, data, or documentation from this project with anyone outside the team. The project is no longer open source and access is restricted to collaborators only. These measures have been taken to protect our work from unauthorized use,
-Specifically in response to concerns regarding Dr. Sagar KG. (Sagar KG wanted to sell us out, make money on our work and rob our credits)
-*(Integrity and unity is demanded in the current situation, Kindly cooperate)*
 
 ## Project Overview
 This deep learning project focuses on building a portable software solution for real-time human violence detection. Leveraging the ResNet3D18 convolutional neural network, the system is designed to recognize violent and non-violent actions from video streams. It supports multi-device integration, enabling deployment on both CPU and GPU environments for broad accessibility. The software aims to automatically detect incidents of violence and promptly alert relevant authorities, enhancing safety and response times.  
@@ -68,4 +63,5 @@ pip install requirements.txt
 See the [CONTRIBUTING](CONTRIBUTING.md) file for the list of project contributors.
 
 ## License
+
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
