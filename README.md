@@ -3,7 +3,8 @@
 
 ## Project Overview
 This deep learning project focuses on building a portable software solution for real-time human violence detection. Leveraging the ResNet3D18 convolutional neural network, the system is designed to recognize violent and non-violent actions from video streams. It supports multi-device integration, enabling deployment on both CPU and GPU environments for broad accessibility. The software aims to automatically detect incidents of violence and promptly alert relevant authorities, enhancing safety and response times.  
-*(Last updated: September 3rd, 2025)*
+*(Last Updated: February 20th, 2026)*
+*(2nd Last updated: September 3rd, 2025)*
 
 ## Architecture Diagrams of models
 **ResNet-18 Convolutional Neural Network(CNN) Model**
@@ -65,3 +66,4 @@ See the [CONTRIBUTING](CONTRIBUTING.md) file for the list of project contributor
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
