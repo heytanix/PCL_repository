@@ -14,3 +14,6 @@ psutil
 py-cpuinfo
 huggingface-hub
 safetensors
+decord
+scikit-learn
+matplotlib
