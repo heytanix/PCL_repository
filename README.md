@@ -192,7 +192,7 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) for the full list of contributors.
 |---|---|
 | Thanish Chinnappa KC | Lead Developer |
 | Tejas RU | Co-Developer |
-| Tanisha Vernekar | Documentation |
+| Tanisha Vernekar | Documentation, Testing and Evaluating Performance |
 | Sujeeth RK | Research Paper In-charge |
 | Uday S Gowda | Data Analyst |
 
