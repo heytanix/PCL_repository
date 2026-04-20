@@ -190,11 +190,11 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) for the full list of contributors.
 
 | Name | Role |
 |---|---|
-| Thanish Chinnappa KC | Lead Developer |
+| Thanish Chinnappa KC | Lead Developer , Data Analyst |
 | Tejas RU | Co-Developer , Experimentation |
 | Tanisha Vernekar | Documentation, Testing and Evaluating Performance |
 | Sujeeth RK | Research Paper In-charge |
-| Uday S Gowda | Data Analyst |
+| Uday S Gowda | Research Paper |
 
 ---
 
